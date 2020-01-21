@@ -1,0 +1,7 @@
+1.Arduino Uno: microcontroller to receive signals from the Bluetooth module and send signals to the motors.
+
+2.IC Driver: Power the motors and control the speed with a voltage higher than 5V.
+
+3.Bluetooth module HC-05: Used to pair and receive signals from the mobile phone.
+
+4.Motors:The motors are used to move the car for the given speed.
