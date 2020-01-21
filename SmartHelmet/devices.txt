@@ -1,0 +1,7 @@
+2 Arduino UNO Microcontrollers
+MQ3 Alcohol Sensor
+Capacitive Touch sensor Module
+433 MHz RF Transmitter and Receiver Module
+16*2 LCD
+9V DC Motor
+L298 Motor Driver Module
